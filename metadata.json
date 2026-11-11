@@ -1,0 +1,6 @@
+{
+  "name": "Sawai Madhopur WebView Pro",
+  "description": "Advanced mobile WebView app for Sawai Madhopur APK with 3 swipeable splash screens, internet connectivity detection, offline mini-game, loading progress bar, exit confirmation dialog, and push notification sender.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
